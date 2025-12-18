@@ -1,5 +1,4 @@
 
-```markdown
 # Distributed Systems Question Bank Solutions
 
 ---
@@ -501,7 +500,5 @@ Distributed coordination-based systems focus on how processes communicate and co
 * **Routing:** Efficiently routing events to subscribers using **content-based routing** is a key challenge in these systems.
 
 *(See taxonomy diagram in `Dist_Sys_Unit_5_Notes.pdf` Page 1)*
-
-```
 
 ```
